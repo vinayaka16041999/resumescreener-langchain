@@ -1,0 +1,9 @@
+langchain_community
+streamlit
+pathlib
+langchain_huggingface
+langchain_groq
+langchain_chroma
+langchain_cohere
+pandas
+watchdog
